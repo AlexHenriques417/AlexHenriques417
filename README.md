@@ -9,7 +9,7 @@ Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o en
       <img
           alt="Linkedin"
           title="Meu Linkedin"
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+          src="https://img.shields.io/badge/LinkedIn-0077B5?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
       />
      <a href="">
       <img
