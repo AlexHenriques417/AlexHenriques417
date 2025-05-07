@@ -5,6 +5,18 @@
 Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o ensino médio. Atualmente, estou cursando Ciências da Computação no Centro Universitário de João Pessoa | UNIPÊ. Sou apaixonado por tecnologia, estou a cada dia praticando para ganhar conhecimento e experiência nessa área. Fora aprender gosto muito de ensinar, por isso na faculdade temos grupos de estudos que trabalhamos a aprendizagem e outras competências como liderança e organização.
 
 <p align="left">
+     <a href="https://www.linkedin.com/in/AlexHenriques?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img
+          alt="Linkedin"
+          title="Meu Linkedin"
+          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      />
+     <a href="">
+      <img
+        alt="Gmail Pessoal"
+        title="Gmail Pessoal"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      />
      <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -132,7 +144,7 @@ Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o en
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AlexHenriques&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AlexHenriques417&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=3600" 
   />
 <br>
 <br>
@@ -140,7 +152,7 @@ Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o en
       align="left" 
       alt="GitHub Stats" 
       height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHenriques&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api?username=AlexHenriques417&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=3600"
   />
 
 </p>
