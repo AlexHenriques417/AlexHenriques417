@@ -125,23 +125,19 @@ Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o en
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlexHenriques417&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=3600" 
   />
-<br>
-<br>
-<img 
+
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=AlexHenriques417&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&cache_seconds=3600"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHenriques417&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=3600" 
   />
-
-</p>
-
+</div>
