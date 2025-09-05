@@ -4,38 +4,6 @@
 
 Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o ensino médio. Atualmente, estou cursando Ciências da Computação no Centro Universitário de João Pessoa | UNIPÊ. Sou apaixonado por tecnologia, estou a cada dia praticando para ganhar conhecimento e experiência nessa área. Fora aprender gosto muito de ensinar, por isso na faculdade temos grupos de estudos que trabalhamos a aprendizagem e outras competências como liderança e organização.
 
-<p align="left">
-     <a href="https://www.linkedin.com/in/AlexHenriques?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-      <img
-          alt="Linkedin"
-          title="Meu Linkedin"
-          src="https://img.shields.io/badge/LinkedIn-0077B5?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-      />
-     <a href="">
-      <img
-        alt="Gmail Pessoal"
-        title="Gmail Pessoal"
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      />
-    </a> 
-    <a href="https://github.com/AlexHenriques?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AlexHenriques?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/AlexHenriques?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AlexHenriques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
