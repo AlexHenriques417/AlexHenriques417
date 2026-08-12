@@ -7,13 +7,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0d1117,100:161b22&text=ALEX%20HENRIQUES&fontSize=48&fontColor=00E5FF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-00e5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00e5ff?style=for-the-badge"/>
-
 </div>
-
----
 
 ### `> ABOUT_ME`
 
