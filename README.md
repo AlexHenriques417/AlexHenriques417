@@ -10,10 +10,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+ONLINE+%5D;%3E+Initializing+AlexOS...;%3E+Full-Stack+Developer;%3E+Computer+Science+Student;%3E+Building+scalable+systems+%26+modern+interfaces;%3E+Welcome+to+my+digital+workspace..." alt="Typing Animation"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-00e5ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00e5ff?style=for-the-badge"/>
 
