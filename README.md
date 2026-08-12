@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Alex Henriques, tenho 19 anos e sou de João Pessoa - PB. Concluí o ensino médio. Atualmente, estou cursando Ciências da Computação no Centro Universitário de João Pessoa | UNIPÊ. Sou apaixonado por tecnologia, estou a cada dia praticando para ganhar conhecimento e experiência nessa área. Fora aprender gosto muito de ensinar, por isso na faculdade temos grupos de estudos que trabalhamos a aprendizagem e outras competências como liderança e organização.
+Me chamo Alex Henriques, tenho 20 anos e sou de João Pessoa - PB. Concluí o ensino médio. Atualmente, estou cursando Ciências da Computação no Centro Universitário de João Pessoa | UNIPÊ. Sou apaixonado por tecnologia, estou a cada dia praticando para ganhar conhecimento e experiência nessa área. Fora aprender gosto muito de ensinar, por isso na faculdade temos grupos de estudos que trabalhamos a aprendizagem e outras competências como liderança e organização.
 
 ### 🤖 Linguagens e Tecnologias
 
