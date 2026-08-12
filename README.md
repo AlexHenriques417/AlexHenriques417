@@ -1,207 +1,100 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,50:0d1117,100:161b22&text=ALEX%20HENRIQUES&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&descColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-<!--                         SYSTEM INITIALIZATION                          -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+modern+and+scalable+software;Software+Engineering+%7C+APIs+%7C+Microservices;Learning+%7C+Building+%7C+Improving" />
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0d1117,100:161b22&text=ALEX%20HENRIQUES&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-</div>
-
-### `> ABOUT_ME`
-
-Olá! Eu sou **Alex Henriques**, estudante de **Ciência da Computação** e desenvolvedor apaixonado por tecnologia, arquitetura de software e criação de soluções modernas.
-
-Meu foco está principalmente no desenvolvimento **Full-Stack**, explorando aplicações web, APIs, microsserviços, bancos de dados, containers e interfaces modernas.
-
-```bash
-$ whoami
-
-Alex Henriques
-
-$ mission
-
-Construir software moderno, escalável e bem estruturado.
-
-$ current_mode
-
-Learning → Building → Testing → Improving → Repeating
-
-$ philosophy
-
-"Code is not just about making things work.
-It's about making complex things understandable."
-```
-
----
-
-# `> TECH_STACK`
-
-<div align="center">
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,materialui&theme=dark" />
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
-
-### `DATABASE & INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker&theme=dark" />
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</div>
-
----
-
-# `> CORE_SKILLS`
-
-<div align="center">
-
-|       DOMAIN      | TECHNOLOGIES                                                |
-| :---------------: | :---------------------------------------------------------- |
-|     Frontend      | React • TypeScript • JavaScript • Tailwind CSS • MUI • Vite |
-|      Backend      | Node.js • Express • REST APIs                               |
-|   Architecture    | Microservices • API Gateway • Distributed Systems           |
-|     Database      | PostgreSQL • MySQL • Prisma • Redis                         |
-|   Infrastructure  | Docker • Docker Compose                                     |
-|       DevOps      | Git • GitHub Actions • CI/CD                                |
-|      Testing      | Jest • API Testing                                          |
-|    Engineering    | UML • Software Architecture • Clean Code                    |
-
-</div>
-
----
-
-# `> DEVELOPMENT_ENVIRONMENT`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPMENT TOOLKIT                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  IDE              → Visual Studio Code                       ║
-║  VERSION CONTROL  → Git + GitHub                             ║
-║  API              → Postman                                  ║
-║  CONTAINERS       → Docker + Docker Compose                  ║
-║  DATABASE         → PostgreSQL / MySQL                       ║
-║  ORM              → Prisma                                   ║
-║  TESTING          → Jest                                     ║
-║  CI/CD            → GitHub Actions                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `> CURRENT_OBJECTIVES`
-
-```bash
-┌──[ALEX@GITHUB]─[~/current-mission]
-└─$ cat objectives.txt
-
-[01] ████████████████████  MASTERING TYPESCRIPT
-[02] ███████████████████░  ADVANCED REACT
-[03] ██████████████████░░  MICROSERVICES ARCHITECTURE
-[04] █████████████████░░░  DOCKER & CONTAINERS
-[05] ████████████████░░░░  CI/CD & DEVOPS
-[06] ███████████████░░░░░  SOFTWARE ARCHITECTURE
-[07] ██████████████░░░░░░  DISTRIBUTED SYSTEMS
-
-┌──[ALEX@GITHUB]─[~/current-mission]
-└─$ ./keep_building.sh
-
-> Learning...
-> Experimenting...
-> Building...
-> Improving...
-
-[ SYSTEM STATUS ] → ONLINE
-```
-
----
-
-# `> SYSTEM_ACTIVITY`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                       ACTIVITY LOG                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [BOOT]    System initialized                               │
-│  [CODE]    Building new features                            │
-│  [LEARN]   Studying software architecture                   │
-│  [DEBUG]   Hunting bugs                                    │
-│  [BUILD]   Creating scalable applications                   │
-│  [PUSH]    Shipping code                                    │
-│                                                             │
-│                ALWAYS BUILDING SOMETHING                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> CONNECT`
-
-<div align="center">
+<br>
 
 <a href="https://github.com/AlexHenriques417">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
-
 <a href="https://www.linkedin.com/in/alex-henriques417/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
-
 <a href="mailto:alexhenriques417@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 
 </div>
 
-<br>
+## `> ABOUT_ME`
+
+Computer Science student and **Full-Stack Developer** focused on building modern, scalable and well-structured software.
+
+Interested in **Software Engineering, APIs, Microservices, Databases, DevOps and Distributed Systems.**
+
+## `> TECH_STACK`
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│       "THE FUTURE IS BUILT ONE LINE OF CODE AT A TIME." │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,materialui&theme=dark"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark"/>
+
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker&theme=dark"/>
+
+**Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,postman&theme=dark"/>
 
 </div>
 
----
+## `> SKILLS`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,50:0d1117,100:050505&animation=fadeIn"/>
+|   Frontend   |  Backend  |      Architecture     |  Database  |     DevOps     |
+| :----------: | :-------: | :-------------------: | :--------: | :------------: |
+|     React    |  Node.js  |     Microservices     | PostgreSQL |     Docker     |
+|  TypeScript  |  Express  |      API Gateway      |    MySQL   |       Git      |
+|  JavaScript  | REST APIs |  Distributed Systems  |    Redis   | GitHub Actions |
+| Tailwind CSS |   Prisma  | Software Architecture |   Prisma   |      CI/CD     |
+|      MUI     |    Jest   |       Clean Code      |      —     |        —       |
+
+</div>
+
+## `> DEVELOPMENT_ENVIRONMENT`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,postgresql&theme=dark"/>
+
+</div>
+
+## `> CURRENT_FOCUS`
+
+<div align="center">
+
+**TypeScript** • **Advanced React** • **Microservices** • **Docker** • **CI/CD** • **Software Architecture** • **Distributed Systems**
+
+</div>
+
+## `> GITHUB`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexHenriques417&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+## `> CONTRIBUTIONS`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AlexHenriques417/AlexHenriques417/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:161b22,50:0d1117,100:050505&animation=fadeIn" width="100%"/>
 
 <sub>
 
-`SYSTEM TERMINATED • CONNECTION REMAINS ACTIVE`
-
-</sub>
-
-<br>
-
-<sub>
-
-Designed & built by <strong>Alex Henriques</strong> • 2026
+<strong>Alex Henriques</strong> • Computer Science • Full-Stack Development
 
 </sub>
 
